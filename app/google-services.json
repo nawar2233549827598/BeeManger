@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092455573452",
+    "project_id": "beemanger",
+    "storage_bucket": "beemanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092455573452:android:ffe418bf995d73446c9f69",
+        "android_client_info": {
+          "package_name": "com.example.fianlebee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092455573452-50eg8s39cn7piq0s9p6e9jst7moq5k1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fianlebee",
+            "certificate_hash": "89feac44317ff566df77541e3b82818e98bce4ef"
+          }
+        },
+        {
+          "client_id": "1092455573452-g0kup347votlk5fn14um9klfp1ke847v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uJYpNhxI9TAgkIXDXIkr1gYYG1-bwio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092455573452-g0kup347votlk5fn14um9klfp1ke847v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
